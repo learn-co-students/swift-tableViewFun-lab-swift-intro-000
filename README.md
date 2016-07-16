@@ -4,12 +4,9 @@
 
 > Meow. ~[Cat](https://en.wikipedia.org/wiki/Cat)
 
- 
-
-## Learning Objectives - The student should be able to..
+## Learning Objectives
 
 * Complete this lab.
-
 
 ## What the student can do at this point 
 
