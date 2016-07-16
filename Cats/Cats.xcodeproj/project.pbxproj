@@ -12,6 +12,7 @@
 		B7C617FA1D3AE83600F80727 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7C617F81D3AE83600F80727 /* Main.storyboard */; };
 		B7C617FC1D3AE83600F80727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7C617FB1D3AE83600F80727 /* Assets.xcassets */; };
 		B7C617FF1D3AE83600F80727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7C617FD1D3AE83600F80727 /* LaunchScreen.storyboard */; };
+		B7C618091D3AE94D00F80727 /* learn_ios.png in Resources */ = {isa = PBXBuildFile; fileRef = B7C618081D3AE94D00F80727 /* learn_ios.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B7C617FB1D3AE83600F80727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7C617FE1D3AE83600F80727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7C618001D3AE83600F80727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7C618081D3AE94D00F80727 /* learn_ios.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = learn_ios.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B7C617FB1D3AE83600F80727 /* Assets.xcassets */,
 				B7C617FD1D3AE83600F80727 /* LaunchScreen.storyboard */,
 				B7C618001D3AE83600F80727 /* Info.plist */,
+				B7C618081D3AE94D00F80727 /* learn_ios.png */,
 			);
 			path = Cats;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7C618091D3AE94D00F80727 /* learn_ios.png in Resources */,
 				B7C617FF1D3AE83600F80727 /* LaunchScreen.storyboard in Resources */,
 				B7C617FC1D3AE83600F80727 /* Assets.xcassets in Resources */,
 				B7C617FA1D3AE83600F80727 /* Main.storyboard in Resources */,
