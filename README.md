@@ -25,10 +25,10 @@ This lab shouldn't be too difficult, so you're not being given a lot of guidance
 Here are the tasks you must do in order to complete this app:
 
 1. In `Main.storyboard`, drag a new **Table View Controller** from the object library to the storyboard.
-2. Don't forget to set `Main.storyboard` as the _initial view controller!_
+2. Don't forget to set **Table View Controller** as the _initial view controller!_
 3. Embed a _navigation controller_ in the **Table View Controller Scene**.
 4. Set the title in the nav bar to **Cats**.
-5. Set the _reuse identifier_ if the table view's cells to "KittyCell".
+5. Set the _reuse identifier_ of the table view's cells to "KittyCell".
 6. Set the class of the table view controller in `Main.storyboard` to `ViewController` (the name of the class you are implementing in `ViewController.swift`).
 7. Implement the three methods required of table view controllers in `ViewController` in the `ViewController.swift` file. (Refer back to previous lessons if you can't remember what three methods you need to implement, or use Xcode's autocomplete function to give you some hints.)
 
