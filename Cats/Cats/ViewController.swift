@@ -25,11 +25,9 @@ class ViewController: UITableViewController {
         "Birman",
         "Norwegian Forest",
     ].sort()
-}
 
-// MARK: - Table View Data Source
+    // MARK: - Table View Data Source
 
-extension ViewController {
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
         return 1
     }
