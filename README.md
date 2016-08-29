@@ -12,7 +12,7 @@ In this lab, you'll get more practice with TableViews and view controllers.
 
 Cats: Our furry friends that make our lives better and are the reason the Internet exists. They're cute, they're lovable, and sometimes they even come in boxes.
 
-![Cat-in-the-Box](https://s3.amazonaws.com/learn-verified/cat-box.gif)
+![Cat-in-the-Box!](https://s3.amazonaws.com/learn-verified/cat-box.gif)
 
 In this lab, you're going to create an iOS app that will list a bunch of kitty breeds. When you're done, it will look like this:
 
