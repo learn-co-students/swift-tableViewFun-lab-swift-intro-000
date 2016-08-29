@@ -1,4 +1,4 @@
-# TableView Challenge
+# TableView Lab
 
 ![GraceHopper](http://i.imgur.com/3CfGWMD.jpg?1)  
 
