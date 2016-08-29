@@ -2,13 +2,13 @@
 
 ![GraceHopper](http://i.imgur.com/3CfGWMD.jpg?1)  
 
-> Meow. ~[Cat](https://en.wikipedia.org/wiki/Cat)
+> Meow. -[Cat](https://en.wikipedia.org/wiki/Cat)
 
 ## Learning Objectives
 
-* Complete this lab.
+In this lab, you'll get more practice with TableViews and view controllers. 
 
-## Directions
+## Instructions 
 
 Cats: Our furry friends that make our lives better and are the reason the Internet exists. They're cute, they're lovable, and sometimes they even come in boxes.
 
