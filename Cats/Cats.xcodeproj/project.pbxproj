@@ -99,7 +99,8 @@
 				TargetAttributes = {
 					B7C617F01D3AE83600F80727 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = JL54VFJL37;
+						DevelopmentTeam = WNAGBXF4G9;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -254,10 +255,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WNAGBXF4G9;
 				INFOPLIST_FILE = Cats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.Cats;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -265,10 +268,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WNAGBXF4G9;
 				INFOPLIST_FILE = Cats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.Cats;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -291,6 +296,7 @@
 				B7C618051D3AE83700F80727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
