@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686" : 9223372036854775807,
+    "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0C01F207-75F7-4B3A-B6B2-A2A3E5341B55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686" : "swift-tableViewFun-lab-swift-intro-000\/",
+    "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cats",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cats\/Cats.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saroar\/swift-tableViewFun-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A6532732BDFAAFD67AAD91CB492B29DFD3C2686"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saroar\/swift-ProtocolDelegate-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843"
+    }
+  ]
+}
