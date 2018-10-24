@@ -36,8 +36,8 @@ class ViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: reuseIdentifier, for: indexPath)
-        let songTitle = kittyBreeds[indexPath.row]
-        cell.textLabel?.text = songTitle
+        let cuteKitty = kittyBreeds[indexPath.row]
+        cell.textLabel?.text = cuteKitty
         return cell
     }
     
